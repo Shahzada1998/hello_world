@@ -1,2 +1,4 @@
 #this command will print some text
-print('hello world')
+
+a = 'hello world'
+print(a)
